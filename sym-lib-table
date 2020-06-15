@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name offline_supply_v1-rescue)(type Legacy)(uri ${KIPRJMOD}/offline_supply_v1-rescue.lib)(options "")(descr ""))
+  (lib (name FOD817ASD)(type Legacy)(uri C:/Users/Ray/OneDrive/Projects/kicad/symbols/FOD817ASD.lib)(options "")(descr ""))
+  (lib (name SIR414DP-T1-GE3)(type Legacy)(uri C:/Users/Ray/OneDrive/Projects/kicad/symbols/SIR414DP-T1-GE3.lib)(options "")(descr ""))
+  (lib (name LT8653_ss_v1-rescue)(type Legacy)(uri ${KIPRJMOD}/LT8653_ss_v1-rescue.lib)(options "")(descr ""))
+)
